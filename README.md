@@ -1,31 +1,3 @@
-# 👩‍💻 Marina | Future Développeuse Full Stack
-
-Bienvenue sur mon GitHub !
-
-Je m'appelle Marina et je suis actuellement étudiante à la **Wild Code School** en formation **Développeur Web Full Stack**.  
-Ma formation a débuté en **mars 2025** et se termine en **août 2025**.
-
-## 🧠 Technologies en cours d'apprentissage :
-
-- HTML / CSS  
-- JavaScript  
-- React  
-- Node.js  
-- Express.js
-
-## 🎯 Objectif
-
-Mon objectif est de devenir **développeuse web full stack**.  
-Je travaille activement sur des projets personnels et d'école que vous pouvez découvrir ici sur mon profil GitHub.  
-Je suis motivée, curieuse, et j'apprends chaque jour un peu plus dans ce domaine passionnant.
-
-## 📫 Me contacter
-
-- 📧 Email : marinasaraiva@hotmail.fr
-- 💼 LinkedIn : https://www.linkedin.com/in/marina-saraiva-9a593b341/
-
-Merci de votre visite ! 🌟
-
 <h1 align="center">👋 Salut, moi c’est Marina !</h1>
 
 <p align="center">
@@ -88,8 +60,8 @@ Restez connecté ! 💥
 
 ## 📫 Me contacter
 
-- 💼 LinkedIn : *à insérer*
-- ✉️ Email : *à insérer*
+- 💼 LinkedIn : <strong>https://www.linkedin.com/in/marina-saraiva-9a593b341/</strong>
+- ✉️ Email: <strong> marinasaraiva@hotmail.fr</strong>
 - 🐙 GitHub : [@TonPseudoGitHub](https://github.com/TonPseudoGitHub)
 
 ---
