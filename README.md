@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👩‍💻 Marina | Future Développeuse Full Stack
 
-<!--
-**Marina-404/Marina-404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bienvenue sur mon GitHub !
 
-Here are some ideas to get you started:
+Je m'appelle Marina et je suis actuellement étudiante à la **Wild Code School** en formation **Développeur Web Full Stack**.  
+Ma formation a débuté en **mars 2025** et se termine en **août 2025**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Technologies en cours d'apprentissage :
+
+- HTML / CSS  
+- JavaScript  
+- React  
+- Node.js  
+- Express.js
+
+## 🎯 Objectif
+
+Mon objectif est de devenir **développeuse web full stack**.  
+Je travaille activement sur des projets personnels et d'école que vous pouvez découvrir ici sur mon profil GitHub.  
+Je suis motivée, curieuse, et j'apprends chaque jour un peu plus dans ce domaine passionnant.
+
+## 📫 Me contacter
+
+- 📧 Email : marinasaraiva@hotmail.fr
+- 💼 LinkedIn : https://www.linkedin.com/in/marina-saraiva-9a593b341/
+
+Merci de votre visite ! 🌟
