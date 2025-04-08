@@ -53,7 +53,7 @@ J’aime apprendre, coder, et relever des défis !
 
 ## 📂 Projets à découvrir bientôt
 
-👉 Des projets seront bientôt visibles sur mon GitHub, réalisés tout au long de ma formation.  
+👉 Mes projets sont visibles sur mon GitHub, réalisés tout au long de ma formation.  
 Restez connecté ! 💥
 
 ---
@@ -62,7 +62,6 @@ Restez connecté ! 💥
 
 - 💼 LinkedIn : <strong>https://www.linkedin.com/in/marina-saraiva-9a593b341/</strong>
 - ✉️ Email: <strong> marinasaraiva@hotmail.fr</strong>
-- 🐙 GitHub : [@TonPseudoGitHub](https://github.com/TonPseudoGitHub)
 
 ---
 
