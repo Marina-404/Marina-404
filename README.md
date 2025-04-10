@@ -65,6 +65,3 @@ Restez connecté ! 💥
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F794EC&center=true&vCenter=true&width=450&lines=Marina+-+Développeuse+en+devenir;Wild+Code+School+2025;Toujours+prête+à+apprendre+!+%F0%9F%92%BB" alt="Typing SVG" />
-</p>
