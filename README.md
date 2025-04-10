@@ -16,7 +16,7 @@ Pendant ces 5 mois intensifs :
 - 📚 Je suis coachée par des formateurs experts et passionnés
 - 🛠️ Je développe mes compétences techniques à travers des projets concrets
 
-🎓 Cette formation permet d’obtenir une **certification officielle RNCP de niveau Bac+2* :  
+🎓 Cette formation permet d’obtenir une *certification officielle RNCP de niveau Bac+2* :  
 ---
 
 ## 🧠 Compétences en cours d’acquisition
