@@ -17,8 +17,6 @@ Pendant ces 5 mois intensifs :
 - 🛠️ Je développe mes compétences techniques à travers des projets concrets
 
 🎓 Cette formation permet d’obtenir une **certification officielle RNCP de niveau Bac+2** :  
-> **Développeur Web et Web Mobile**, un vrai tremplin vers une carrière solide dans le web.
-
 ---
 
 ## 🧠 Compétences en cours d’acquisition
@@ -53,8 +51,6 @@ J’aime apprendre, coder, et relever des défis !
 
 ## 📂 Projets à découvrir bientôt
 
-👉 Mes projets sont visibles sur mon GitHub, réalisés tout au long de ma formation.  
-Restez connecté ! 💥
 
 ---
 
