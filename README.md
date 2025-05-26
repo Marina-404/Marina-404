@@ -19,7 +19,6 @@ Pendant ces 5 mois intensifs :
 - 🛠️ Je développe mes compétences techniques à travers des projets concrets
 
 
----
 
 ## 🧠 Compétences en cours d’acquisition
 
