@@ -32,7 +32,7 @@ Pendant ces 5 mois intensifs :
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/NoSQL-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
-
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,github,vscode,figma" /> </p>
 ---
 
 ## 🧩 4 Blocs de compétences de la formation
