@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=8F4FFF&center=true&vCenter=true&width=435&lines=Salut%2C+je+suis+Marina+Saraiva+%F0%9F%91%8B;Développeuse+Web+en+formation;Front-end+en+construction+!+%F0%9F%9A%A7;Passionnée+par+le+design,+le+code+et+les+jeux+vidéo" alt="Typing SVG" />
+  <img src="https://user-images.githubusercontent.com/123456789/typing-banner.png" alt="Marina Saraiva - Développeuse Web" width="435" />
 </p>
 
 <p align="center">
