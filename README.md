@@ -23,16 +23,7 @@ Pendant ces 5 mois intensifs :
 
 ## 🧠 Compétences en cours d’acquisition
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/NoSQL-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white" />
-</p>
-<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,github,vscode,figma" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,github,vscode,figma" /> </p>
 ---
 
 ## 🧩 4 Blocs de compétences de la formation
