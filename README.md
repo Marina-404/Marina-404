@@ -24,6 +24,7 @@ Pendant ces 5 mois intensifs :
 ## 🧠 Compétences en cours d’acquisition
 
 <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,github,vscode,figma" /> </p>
+
 ---
 
 ## 🧩 4 Blocs de compétences de la formation
