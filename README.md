@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/123456789/typing-banner.png" alt="Marina Saraiva - Développeuse Web" width="435" />
-</p>
+# Bonjour, Marina Saraiva - Développeuse Web
 
 <p align="center">
   🎓 Étudiante à la <strong>Wild Code School</strong> (Mars 2025 – Août 2025)<br>
