@@ -1,7 +1,7 @@
-<div align="center">
+
   # Bonjour, Marina Saraiva
   Développeuse Web
-</div>
+
 
 <p align="center">
   🎓 Étudiante à la <strong>Wild Code School</strong> (Mars 2025 – Août 2025)<br>
