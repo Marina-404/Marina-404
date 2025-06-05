@@ -1,6 +1,6 @@
 
-  # Bonjour, Je suis Marina Saraiva
-  # Développeuse Web
+  # Bonjour, Je suis Marina Saraiva, Développeuse Web
+
 
 
 <p align="center">
