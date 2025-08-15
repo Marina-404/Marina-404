@@ -54,8 +54,8 @@ J’aime apprendre, coder, et relever des défis !
 ---
 
 ## 📫 Me contacter
-
-- 💼 LinkedIn : <strong>https://www.linkedin.com/in/marina-saraiva-9a593b341/</strong>
-- ✉️ Email: <strong> marinasaraiva@hotmail.fr</strong>
+- Mon portfolio : <strong>https://developpeur-web-marina.fr/</strong>
+- LinkedIn : <strong>https://www.linkedin.com/in/marina-saraiva-9a593b341/</strong>
+- Email: <strong> marinasaraiva@hotmail.fr</strong>
 
 ---
